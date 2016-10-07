@@ -1,0 +1,23 @@
+.container {
+  width: 1440px; }
+
+.bottom {
+  width: 1440px;
+  height: 80px; }
+
+ul {
+  list-style: none; }
+
+li {
+  line-height: 50px;
+  float: left; }
+
+li a {
+  padding: 0 20px;
+  text-decoration: none;
+  color: black; }
+
+.bo {
+  margin-left: 300px; }
+
+/*# sourceMappingURL=index.css.map */

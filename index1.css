@@ -1,0 +1,43 @@
+@charset "UTF-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img, input {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset, img {
+    border: 0;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff8400;
+}
+
+.container {
+    width: 1440px; }
+
+.bottom {
+    width: 1440px;
+    height: 80px;
+}
+
+.bottom ul li{float:left;
+    list-style: none;
+    line-height:70px;
+}
+.bottom ul li a{padding: 0 20px;}
+
+.bo{margin-left:400px;}
+.foot-1{
+    height: 34px;
+    width:1440px;
+}
+.foot-1 p{line-height:40px;}
